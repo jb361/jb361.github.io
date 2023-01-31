@@ -1,0 +1,14 @@
+# Site settings
+title: Joel Barrett
+description: My personal website and portfolio
+
+# User settings
+username: Joel Barrett
+user_title: Software Engineer
+user_description: I'm a software engineer with 10+ years of professional experience. I'm comfortable working with any programming paradigm and strive to write code that is clean, simple, well-documented and rigorously tested. I love diving into the nitty-gritty details of how a system works but I don't believe in over-architecting or reinventing the wheel. I'm a continuous learner and can quickly pick up new languages and technologies as required.
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
